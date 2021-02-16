@@ -1,1 +1,1 @@
-Selamlar, ben Berkay Bakacak. 19 yaşımdayım. Python, Flask, Django ile ilgileniyorum. Yaptığım bazı ufak-tefek programları burada paylaşıyorum. Ulaşmak isterseniz; Twitter hesabım: @f_2048 Web projesi olsun ya da olmasın, her türlü uygulama önerisine açığım :)
+Selamlar, ben Berkay Bakacak. 19 yaşımdayım. Python, Flask, Django ile ilgileniyorum. Yaptığım bazı ufak-tefek programları burada paylaşıyorum. Ulaşmak isterseniz; Twitter hesabım: @f_2048 Küçük-büyük demeden her türlü program önerisinde bulunabilirsiniz, elimden geldiğince yapmaya çalışırım :)
